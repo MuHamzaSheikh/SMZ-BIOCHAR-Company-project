@@ -9,18 +9,28 @@ SMZ Biochar is a modern, responsive web application built to promote biochar-bas
 The platform provides users with information about biochar, its benefits, and its role in improving soil health and reducing carbon footprint.
 
 🎯 Project Goals
+
 Promote sustainable agriculture
 Build a real-world production-level frontend
 Practice modern React development
 Deliver a fast, responsive, and scalable UI
+
 🚀 Features
+
 ⚛️ Built with modern React (component-based architecture)
+
 🎨 Styled using Tailwind CSS
+
 📱 Fully responsive (mobile, tablet, desktop)
+
 ⚡ Optimized performance and fast loading
+
 🧩 Reusable components and clean code structure
+
 🌍 Informational pages about biochar and sustainability
+
 📞 Contact / inquiry section
+
 🛠️ Tech Stack
 Frontend: React.js
 Styling: Tailwind CSS
@@ -41,17 +51,23 @@ smz-biochar/
 │── package.json
 │── tailwind.config.js
 │── README.md
+
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
 git clone https://github.com/your-username/smz-biochar.git
+
 cd smz-biochar
+
 2️⃣ Install dependencies
 npm install
+
 3️⃣ Run development server
 npm run dev
+
 4️⃣ Build for production
 npm run build
-📸 Screenshots
+
+
 <img width="1913" height="874" alt="image" src="https://github.com/user-attachments/assets/18bcb2b0-f099-4832-a01f-b323aca5e7d0" />
 <img width="1898" height="845" alt="image" src="https://github.com/user-attachments/assets/cf7b5bca-5b78-472f-8076-e88254a5cae4" />
 <img width="1848" height="848" alt="image" src="https://github.com/user-attachments/assets/0358d308-0936-4ac1-a7fe-08ef1658b753" />
